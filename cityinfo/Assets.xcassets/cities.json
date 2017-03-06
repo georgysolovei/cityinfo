@@ -1,0 +1,41 @@
+[
+     {"name" : "Minsk",
+        "countryCode" : "BY",
+        "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at cursus justo. Sed eget tempus libero. Praesent iaculis lorem at rutrum tempor. Ut eu lacus fringilla, bibendum lorem non, iaculis lacus. In luctus non lorem nec placerat. Sed et tristique quam. Praesent hendrerit orci arcu, in aliquet est iaculis vitae. Pellentesque tristique sem sed eros eleifend bibendum. Quisque justo velit, laoreet quis metus ut, sagittis pellentesque sem. Duis volutpat risus dolor, nec placerat elit aliquam suscipit. Pellentesque malesuada finibus velit, eu suscipit nulla vestibulum vitae. Sed mollis sapien ac semper consectetur. Donec bibendum dapibus neque, in venenatis ante consectetur eu. Aenean faucibus condimentum purus. Pellentesque vel turpis et tellus porta pulvinar. Praesent ullamcorper magna justo, sit amet ornare enim bibendum at. Integer eu ligula massa." },
+     
+     {"name" : "Prague",
+     "countryCode" : "CZ",
+     "description" : "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed eleifend sollicitudin augue ac suscipit. Sed pulvinar ac turpis vel tempor. Cras accumsan, nunc sed lacinia dapibus, orci dui scelerisque ante, scelerisque consectetur urna orci at ipsum. Morbi congue varius lorem, ac lacinia purus molestie id. Proin vel libero fermentum, blandit urna a, gravida ex. Vestibulum malesuada ante blandit, molestie neque quis, varius ante. Suspendisse felis purus, porta ac bibendum sit amet, porttitor id nibh. Duis nec luctus enim. Aliquam sit amet felis ante. Cras laoreet, arcu sit amet varius aliquam, urna ex bibendum elit, quis tincidunt nulla quam a est. Praesent rhoncus ultrices ante a viverra. Sed orci ipsum, egestas condimentum gravida at, facilisis nec risus. Nulla posuere, augue non sagittis suscipit, ipsum mi porta tortor, vel interdum erat nisi non diam. Cras ut viverra augue, vel luctus lectus. Sed quis tellus lorem." },
+     
+     {"name" : "Warsaw",
+     "countryCode" : "PL",
+     "description" : "In placerat cursus tristique. Duis viverra posuere mi, id ultrices urna laoreet eget. Quisque scelerisque dapibus turpis, ut tincidunt felis pretium a. Donec efficitur fermentum orci accumsan lobortis. Nulla volutpat enim dui, nec finibus nulla tincidunt sed. Morbi pharetra luctus turpis ac ornare. Ut feugiat, nisl non euismod fringilla, felis mi porta sapien, quis pulvinar libero arcu ac sem. Nunc congue lectus nibh, sit amet venenatis velit tincidunt in." },
+     
+     {"name" : "Moscow",
+     "countryCode" : "RU",
+     "description" : "Etiam est tortor, varius eu aliquam vestibulum, aliquam ut risus. Duis sed posuere libero. Sed congue turpis nec massa accumsan, eu auctor elit lobortis. Donec in sapien eu justo ullamcorper bibendum. Mauris nec arcu pellentesque nunc elementum dignissim volutpat vel erat. Aenean sagittis sodales dui, at congue magna molestie eget. Sed velit sem, dictum eu odio pulvinar, mattis pellentesque velit. Integer vel nisi et massa laoreet pellentesque hendrerit mattis lectus. Aliquam in massa turpis. Nullam porttitor ex a tincidunt facilisis. Sed imperdiet dignissim mauris vitae tristique. Duis purus est, malesuada a nibh sit amet, vulputate imperdiet dui. Maecenas scelerisque nec nulla gravida ultricies." },
+     
+     {"name" : "Washington",
+     "countryCode" : "US",
+     "description" : "Fusce consectetur massa ut augue varius, ac viverra dui mollis. Duis cursus auctor nibh, ac gravida elit congue id. Proin bibendum non purus eget dapibus. Vivamus maximus faucibus tortor, in laoreet lectus maximus quis. Maecenas nec purus facilisis, commodo leo commodo, venenatis ex. Aliquam quis interdum erat, sit amet venenatis mi. Etiam nibh mi, venenatis condimentum risus et, finibus suscipit enim. Pellentesque vestibulum arcu eu lorem mollis, sit amet pretium odio porta. Donec fermentum est mi, eget commodo leo ornare at. Praesent aliquet nisi in risus ornare gravida. Duis tincidunt lorem id posuere consequat." },
+     
+     {"name" : "Brussels",
+     "countryCode" : "BE",
+     "description" : "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec at cursus justo. Sed eget tempus libero. Praesent iaculis lorem at rutrum tempor. Ut eu lacus fringilla, bibendum lorem non, iaculis lacus. In luctus non lorem nec placerat. Sed et tristique quam. Praesent hendrerit orci arcu, in aliquet est iaculis vitae. Pellentesque tristique sem sed eros eleifend bibendum. Quisque justo velit, laoreet quis metus ut, sagittis pellentesque sem. Duis volutpat risus dolor, nec placerat elit aliquam suscipit. Pellentesque malesuada finibus velit, eu suscipit nulla vestibulum vitae. Sed mollis sapien ac semper consectetur. Donec bibendum dapibus neque, in venenatis ante consectetur eu. Aenean faucibus condimentum purus. Pellentesque vel turpis et tellus porta pulvinar. Praesent ullamcorper magna justo, sit amet ornare enim bibendum at. Integer eu ligula massa." },
+     
+     {"name" : "Roma",
+     "countryCode" : "IT",
+     "description" : "Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Sed eleifend sollicitudin augue ac suscipit. Sed pulvinar ac turpis vel tempor. Cras accumsan, nunc sed lacinia dapibus, orci dui scelerisque ante, scelerisque consectetur urna orci at ipsum. Morbi congue varius lorem, ac lacinia purus molestie id. Proin vel libero fermentum, blandit urna a, gravida ex. Vestibulum malesuada ante blandit, molestie neque quis, varius ante. Suspendisse felis purus, porta ac bibendum sit amet, porttitor id nibh. Duis nec luctus enim. Aliquam sit amet felis ante. Cras laoreet, arcu sit amet varius aliquam, urna ex bibendum elit, quis tincidunt nulla quam a est. Praesent rhoncus ultrices ante a viverra. Sed orci ipsum, egestas condimentum gravida at, facilisis nec risus. Nulla posuere, augue non sagittis suscipit, ipsum mi porta tortor, vel interdum erat nisi non diam. Cras ut viverra augue, vel luctus lectus. Sed quis tellus lorem." },
+     
+     {"name" : "Ottawa",
+     "countryCode" : "CA",
+     "description" : "In placerat cursus tristique. Duis viverra posuere mi, id ultrices urna laoreet eget. Quisque scelerisque dapibus turpis, ut tincidunt felis pretium a. Donec efficitur fermentum orci accumsan lobortis. Nulla volutpat enim dui, nec finibus nulla tincidunt sed. Morbi pharetra luctus turpis ac ornare. Ut feugiat, nisl non euismod fringilla, felis mi porta sapien, quis pulvinar libero arcu ac sem. Nunc congue lectus nibh, sit amet venenatis velit tincidunt in." },
+     
+     {"name" : "Oslo",
+     "countryCode" : "NO",
+     "description" : "Etiam est tortor, varius eu aliquam vestibulum, aliquam ut risus. Duis sed posuere libero. Sed congue turpis nec massa accumsan, eu auctor elit lobortis. Donec in sapien eu justo ullamcorper bibendum. Mauris nec arcu pellentesque nunc elementum dignissim volutpat vel erat. Aenean sagittis sodales dui, at congue magna molestie eget. Sed velit sem, dictum eu odio pulvinar, mattis pellentesque velit. Integer vel nisi et massa laoreet pellentesque hendrerit mattis lectus. Aliquam in massa turpis. Nullam porttitor ex a tincidunt facilisis. Sed imperdiet dignissim mauris vitae tristique. Duis purus est, malesuada a nibh sit amet, vulputate imperdiet dui. Maecenas scelerisque nec nulla gravida ultricies." },
+     
+     {"name" : "Berlin",
+     "countryCode" : "DE",
+     "description" : "Fusce consectetur massa ut augue varius, ac viverra dui mollis. Duis cursus auctor nibh, ac gravida elit congue id. Proin bibendum non purus eget dapibus. Vivamus maximus faucibus tortor, in laoreet lectus maximus quis. Maecenas nec purus facilisis, commodo leo commodo, venenatis ex. Aliquam quis interdum erat, sit amet venenatis mi. Etiam nibh mi, venenatis condimentum risus et, finibus suscipit enim. Pellentesque vestibulum arcu eu lorem mollis, sit amet pretium odio porta. Donec fermentum est mi, eget commodo leo ornare at. Praesent aliquet nisi in risus ornare gravida. Duis tincidunt lorem id posuere consequat." }
+ ]
